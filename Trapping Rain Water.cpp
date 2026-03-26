@@ -1,8 +1,9 @@
-class Solution {
-public:
-    int trap(vector<int>& height) {
-        int n = height.size();
-        int left = 0 , right = n -1;
+#include<iostream>
+#include<vector>
+using namespace std;
+int trap(vector<int>& height) {
+        int m = height.size();
+        int left = 0 , right = m -1;
         int answer = 0;
         int rightmax = 0 , leftmax = 0 ;
         while(left<right){
@@ -26,5 +27,15 @@ public:
             }
         }
         return answer;
+}
+int main()
+{
+    int n;
+    cin>>n;
+    vector<int>height(n);
+    for(int i = 0;i < n;i++){
+        cin>>height[i];
     }
-};
+    cout<<trap(height);
+   return 0;
+}
