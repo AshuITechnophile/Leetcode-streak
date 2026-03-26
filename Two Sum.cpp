@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
 vector<int> twoSum(vector<int> &nums, int target)
 {
     for (int i = 0; i < nums.size(); i++)
@@ -23,16 +22,12 @@ int main()
     int target;
     cin >> n;
     cin >> target;
-
     vector<int> nums(n);
-
     for (int i = 0; i < n; i++)
     {
         cin >> nums[i];
     }
-
     vector<int> result = twoSum(nums, target);
-
     if (!result.empty())
     {
         cout << result[0] << " " << result[1];
@@ -41,6 +36,5 @@ int main()
     {
         cout << "No solution found";
     }
-
     return 0;
 }
