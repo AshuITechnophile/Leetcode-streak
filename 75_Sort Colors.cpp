@@ -1,0 +1,35 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+void sortColors(vector<int> &nums)
+{
+    int n = nums.size();
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = 0; j < n - i - 1; j++)
+        {
+            if (nums[j] > nums[j + 1])
+            {
+                swap(nums[j], nums[j + 1]);
+            }
+        }
+    }
+    return;
+}
+int main()
+{
+    int n;
+    cout << "Sixe of Array = ";
+    cin >> n;
+    vector<int> nums(n);
+    for (int i = 0; i < n; i++)
+    {
+        cin >> nums[i];
+    }
+    sortColors(nums);
+    for (int x : nums)
+    {
+        cout << x << " ";
+    }
+    return 0;
+}
