@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1288-remove-covered-intervals](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1288-remove-covered-intervals](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
