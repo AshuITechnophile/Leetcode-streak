@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2469-convert-the-temperature) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
