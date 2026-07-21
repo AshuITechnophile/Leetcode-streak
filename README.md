@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0263-ugly-number) |
+| [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
 | [1025-divisor-game](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2413-smallest-even-multiple) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0299-bulls-and-cows) |
+| [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
 ## Counting
 |  |
 | ------- |
