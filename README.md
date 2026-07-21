@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0059-spiral-matrix-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1288-remove-covered-intervals](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1288-remove-covered-intervals](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0299-bulls-and-cows) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2413-smallest-even-multiple) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
