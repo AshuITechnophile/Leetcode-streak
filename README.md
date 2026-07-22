@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0263-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
 | [1025-divisor-game](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1025-divisor-game) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
