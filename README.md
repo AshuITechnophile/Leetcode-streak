@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
 | [1025-divisor-game](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2235-add-two-integers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0299-bulls-and-cows) |
+| [0412-fizz-buzz](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
 ## Counting
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
