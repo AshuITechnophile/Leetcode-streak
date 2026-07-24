@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
 | [1025-divisor-game](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1025-divisor-game) |
+| [1512-number-of-good-pairs](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/2469-convert-the-temperature) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1288-remove-covered-intervals](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0299-bulls-and-cows) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0299-bulls-and-cows) |
+| [1512-number-of-good-pairs](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
