@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1288-remove-covered-intervals](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0299-bulls-and-cows) |
 | [0412-fizz-buzz](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0556-next-greater-element-iii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
 | ------- |
