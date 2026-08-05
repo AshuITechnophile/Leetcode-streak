@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/0299-bulls-and-cows) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/AshuITechnophile/Leetcode-streak/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
